@@ -15,7 +15,7 @@
 cryptasim@github:~$ boot
 
 role      AI Engineer
-focus     agentic AI, LLM orchestration, FastAPI backends, developer workflows
+focus     agents, RAG, LLM orchestration, vector search, ML-backed products
 base      Jadavpur University, B.E. Information Technology
 site      https://cryptasim.github.io/portfolio/
 mode      shipping useful systems, then making them sharper
@@ -33,16 +33,47 @@ Building production AI agents for ITC Infotech's internal K-Fabric platform, wit
 ## ./stack
 
 <p align="center">
-  <img alt="Skills" src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,azure,git,github,vscode&theme=dark&perline=8" />
+  <img alt="Skills" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,postgres,mongodb,docker,azure,git,github,vscode&theme=dark&perline=7" />
 </p>
 
 <p align="center">
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0a0a0a?style=flat-square&logo=langchain&logoColor=a8c7a5">
-  <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic_AI-0a0a0a?style=flat-square&logo=openai&logoColor=a8c7a5">
-  <img alt="RAG" src="https://img.shields.io/badge/RAG-0a0a0a?style=flat-square&logo=semanticweb&logoColor=a8c7a5">
-  <img alt="Vector DB" src="https://img.shields.io/badge/Vector_DB-0a0a0a?style=flat-square&logo=databricks&logoColor=a8c7a5">
-  <img alt="MediaSession" src="https://img.shields.io/badge/MediaSession-0a0a0a?style=flat-square&logo=googlechrome&logoColor=a8c7a5">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-0a0a0a?style=for-the-badge&logo=openai&logoColor=a8c7a5">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0a0a0a?style=for-the-badge&logo=langchain&logoColor=a8c7a5">
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0a0a0a?style=for-the-badge&logo=langchain&logoColor=a8c7a5">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=a8c7a5">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-0a0a0a?style=for-the-badge&logo=ollama&logoColor=a8c7a5">
 </p>
+
+<p align="center">
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-0a0a0a?style=flat-square&logo=semanticweb&logoColor=a8c7a5">
+  <img alt="Agentic Workflows" src="https://img.shields.io/badge/Agentic_Workflows-0a0a0a?style=flat-square&logo=openai&logoColor=a8c7a5">
+  <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-0a0a0a?style=flat-square&logo=googlegemini&logoColor=a8c7a5">
+  <img alt="Tool Calling" src="https://img.shields.io/badge/Tool_Calling-0a0a0a?style=flat-square&logo=json&logoColor=a8c7a5">
+  <img alt="Embeddings" src="https://img.shields.io/badge/Embeddings-0a0a0a?style=flat-square&logo=vectorlogozone&logoColor=a8c7a5">
+  <img alt="Vector Search" src="https://img.shields.io/badge/Vector_Search-0a0a0a?style=flat-square&logo=databricks&logoColor=a8c7a5">
+  <img alt="Evaluation" src="https://img.shields.io/badge/Evaluation-0a0a0a?style=flat-square&logo=pytest&logoColor=a8c7a5">
+  <img alt="Observability" src="https://img.shields.io/badge/Observability-0a0a0a?style=flat-square&logo=grafana&logoColor=a8c7a5">
+</p>
+
+<p align="center">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=a8c7a5">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=a8c7a5">
+  <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=a8c7a5">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=a8c7a5">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0a0a0a?style=flat-square&logo=numpy&logoColor=a8c7a5">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0a0a0a?style=flat-square&logo=jupyter&logoColor=a8c7a5">
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0a0a0a?style=flat-square&logo=mlflow&logoColor=a8c7a5">
+  <img alt="Weights and Biases" src="https://img.shields.io/badge/W%26B-0a0a0a?style=flat-square&logo=weightsandbiases&logoColor=a8c7a5">
+</p>
+
+| Layer | Tools / Concepts |
+| --- | --- |
+| Agents | LangGraph, LangChain, tool calling, planning loops, human-in-the-loop workflows |
+| LLM Apps | RAG, embeddings, prompt design, structured outputs, evaluation, guardrails |
+| ML Core | PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, OpenCV, notebooks |
+| Retrieval | Vector DBs, semantic search, chunking strategies, reranking, metadata filters |
+| Backend | Python, FastAPI, async APIs, service orchestration, validation, observability |
+| MLOps | Docker, Azure ML, MLflow, experiment tracking, deployment-ready pipelines |
 
 ## ./projects_live
 
