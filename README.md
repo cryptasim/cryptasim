@@ -44,54 +44,14 @@ Building production AI agents for ITC Infotech's internal K-Fabric platform, wit
   <img alt="MediaSession" src="https://img.shields.io/badge/MediaSession-0a0a0a?style=flat-square&logo=googlechrome&logoColor=a8c7a5">
 </p>
 
-## ./featured
-
-<p align="center">
-  <a href="https://github.com/cryptasim/Doctor-Booking-Application">
-    <img width="48%" alt="NovaMed repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=cryptasim&repo=Doctor-Booking-Application&hide_border=true&bg_color=0a0a0a&title_color=a8c7a5&text_color=d7ead4&icon_color=6699ff" />
-  </a>
-  <a href="https://github.com/cryptasim/PhoneSay">
-    <img width="48%" alt="PhoneSay repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=cryptasim&repo=PhoneSay&hide_border=true&bg_color=0a0a0a&title_color=a8c7a5&text_color=d7ead4&icon_color=6699ff" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/cryptasim/mehfil.wtf">
-    <img width="48%" alt="mehfil.wtf repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=cryptasim&repo=mehfil.wtf&hide_border=true&bg_color=0a0a0a&title_color=a8c7a5&text_color=d7ead4&icon_color=6699ff" />
-  </a>
-  <a href="https://github.com/cryptasim/portfolio">
-    <img width="48%" alt="Portfolio repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=cryptasim&repo=portfolio&hide_border=true&bg_color=0a0a0a&title_color=a8c7a5&text_color=d7ead4&icon_color=6699ff" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://cryptasim.github.io/portfolio/"><strong>open the portfolio</strong></a>
-</p>
-
-## ./pulse
-
-<p align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cryptasim&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0a0a0a&title_color=a8c7a5&text_color=d7ead4&icon_color=6699ff" />
-  <img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=cryptasim&hide_border=true&background=0A0A0A&ring=A8C7A5&fire=6699FF&currStreakLabel=A8C7A5&sideLabels=D7EAD4&currStreakNum=D7EAD4&sideNums=D7EAD4&dates=7E927B" />
-</p>
-
-<p align="center">
-  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptasim&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=a8c7a5&text_color=d7ead4" />
-  <img width="49%" alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=cryptasim&theme=matrix&no-frame=true&no-bg=true&row=2&column=3&margin-w=10&margin-h=10" />
-</p>
-
-<p align="center">
-  <img width="98%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cryptasim&bg_color=0a0a0a&color=a8c7a5&line=6699ff&point=d7ead4&area=true&area_color=a8c7a5&hide_border=true" />
-</p>
-
 ## ./projects_live
 
-| Project | What it does | Live |
-| --- | --- | --- |
-| NovaMed | Doctor booking platform with patient, doctor, admin, auth, appointments, uploads, and payments | [open](https://doctor-booking-application-frontend-2u2g.onrender.com/) |
-| PhoneSay | Real-time language learning app with chat, video calls, matching, JWT auth, and themes | [open](https://phonesay.onrender.com/) |
-| mehfil.wtf | Late-night music player for Ghazals, Sufi songs, and unplugged tracks with MediaSession support | [open](https://mehfil-wtf.vercel.app/) |
-| Portfolio | Horizontal scrolling developer portfolio with live theme previews and terminal UI | [open](https://cryptasim.github.io/portfolio/) |
+| Project    | What it does                                                                                    | Live                                                                   |
+| ---------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| NovaMed    | Doctor booking platform with patient, doctor, admin, auth, appointments, uploads, and payments  | [open](https://doctor-booking-application-frontend-2u2g.onrender.com/) |
+| PhoneSay   | Real-time language learning app with chat, video calls, matching, JWT auth, and themes          | [open](https://phonesay.onrender.com/)                                 |
+| mehfil.wtf | Late-night music player for Ghazals, Sufi songs, and unplugged tracks with MediaSession support | [open](https://mehfil-wtf.vercel.app/)                                 |
+| Portfolio  | Horizontal scrolling developer portfolio with live theme previews and terminal UI               | [open](https://cryptasim.github.io/portfolio/)                         |
 
 ## ./operating_system
 
